@@ -33,3 +33,6 @@ This system works completely offline. No data is sent to the cloud.
 
 ## 👨‍💻 Author
 Your Name
+## 📷 Demo
+
+![Demo](screenshot.png)
