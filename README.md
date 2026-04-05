@@ -32,7 +32,7 @@ uvicorn app:app --reload
 This system works completely offline. No data is sent to the cloud.
 
 ## 👨‍💻 Author
-Your Name
+Kayalvizhi S
 ## 📷 Demo
 
 ![Demo](screenshot.png)
