@@ -36,3 +36,6 @@ Kayalvizhi S
 ## 📷 Demo
 
 ![Demo](screenshot.png)
+## 🏗️ System Architecture
+
+![Architecture](architecture.png)
