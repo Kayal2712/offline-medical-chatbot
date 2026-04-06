@@ -39,4 +39,4 @@ Kayalvizhi S
 
 ## 🏗️ System Architecture
 
-![Architecture](architecture.png)
+![Architecture](architecture.jpeg)
